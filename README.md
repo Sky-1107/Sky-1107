@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello :D
+
+I am a year 1 undergraduate studying in the [Bachelor of Engineering Elite Programme](https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-elite-programme), offered by [The University of Hong Kong](https://www.hku.hk/).
+
+I am planning to declare Computer Science as my first major and Quantitative Finance as my second major in year 2.
 
 <!--
 **Sky-1107/Sky-1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
