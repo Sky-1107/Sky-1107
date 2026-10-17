@@ -1,6 +1,6 @@
 ## Nice to meet you!
 
-I am So Cheuk Ki, currently a year 1 undergraduate studying in the [Bachelor of Engineering Elite Programme](https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-elite-programme), offered by [The University of Hong Kong](https://www.hku.hk/). I am planning to declare Computer Science as my first major and Quantitative Finance as my second major in year 2.
+I am So Cheuk Ki, currently a year 2 undergraduate studying in the [Bachelor of Engineering Elite Programme](https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-elite-programme), offered by [The University of Hong Kong](https://www.hku.hk/). I have declared Computer Science as my major. I have also declared BOTH Mathematics and Statistics as my minors.
 
 BTW, my nickname is Colin, not Sky (it is a long story...)
 
